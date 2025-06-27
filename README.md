@@ -39,7 +39,7 @@ packet-tracer-labs/
 │   ├── praktikum-1.md
 │   ├── praktikum-2.md
 │   └── ...
-├── resource/
+├── resources/
 │   ├── topology/
 │   │   ├── topologi-praktikum-1.png
 │   │   ├── topologi-praktikum-2.png
