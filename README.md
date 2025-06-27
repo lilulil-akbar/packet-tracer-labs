@@ -17,7 +17,7 @@ Repositori ini berisi kumpulan praktik dan eksperimen jaringan menggunakan **Cis
 
 | No. | Topik Praktikum               | Dokumentasi                           | Status   |
 |-----|-------------------------------|-------------------------------------|----------|
-| 1   | VLAN Dasar                    | [VLAN Dasar](./practice/praktikum-1-membangun-dan-mengonfigurasi-jaringan-vlan-dasar-menggunakan-dua-switch.md)                       | ✅ Selesai |
+| 1   | VLAN Dasar                    | [Membangun dan Mengonfigurasi Jaringan VLAN Dasar Menggunakan Dua *Switch*](./practice/praktikum-1-membangun-dan-mengonfigurasi-jaringan-vlan-dasar-menggunakan-dua-switch.md)                       | ✅ Selesai |
 | 2   | Inter-VLAN Routing            | -               | ⏳ On Progress |
 | 3   | STP (Spanning Tree Protocol)  | -                              | 🔜 Direncanakan |
 | 4   | EtherChannel                  | -                       | 🔜 Direncanakan |
