@@ -17,11 +17,11 @@ Repositori ini berisi kumpulan praktik dan eksperimen jaringan menggunakan **Cis
 
 | No. | Topik Praktikum               | Dokumentasi                           | Status   |
 |-----|-------------------------------|-------------------------------------|----------|
-| 1   | VLAN Dasar                    | `vlan-dasar/`                       | ✅ Selesai |
-| 2   | Inter-VLAN Routing            | `inter-vlan-routing/`               | ⏳ On Progress |
-| 3   | STP (Spanning Tree Protocol)  | `stp/`                              | 🔜 Direncanakan |
-| 4   | EtherChannel                  | `dhcp-vlan/`                        | 🔜 Direncanakan |
-| 5   | DHCPv4                        | `wireless/`                         | 🔜 Direncanakan |
+| 1   | VLAN Dasar                    | [VLAN Dasar](./practice/praktikum-1-membangun-dan-mengonfigurasi-jaringan-vlan-dasar-menggunakan-dua-switch.md)                       | ✅ Selesai |
+| 2   | Inter-VLAN Routing            | -               | ⏳ On Progress |
+| 3   | STP (Spanning Tree Protocol)  | -                              | 🔜 Direncanakan |
+| 4   | EtherChannel                  | -                       | 🔜 Direncanakan |
+| 5   | DHCPv4                        | -                        | 🔜 Direncanakan |
 
 > 📌 Direktori akan terus diperbarui seiring perkembangan pembelajaran dan eksplorasi konfigurasi jaringan lainnya.
 
@@ -65,7 +65,7 @@ packet-tracer-labs/
 
 Dokumentasi dalam repositori ini dilisensikan di bawah:  
 **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**  
-Lihat detail pada file [LICENSE](./LICENSE)
+Lihat detail pada file [LICENSE](./LICENSE.md)
 
 ---
 
