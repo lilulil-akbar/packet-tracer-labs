@@ -15,7 +15,7 @@ Repositori ini berisi kumpulan praktik dan eksperimen jaringan menggunakan **Cis
 
 ## 📚 Daftar Praktikum
 
-| No. | Topik Praktikum               | Direktori                           | Status   |
+| No. | Topik Praktikum               | Dokumentasi                           | Status   |
 |-----|-------------------------------|-------------------------------------|----------|
 | 1   | VLAN Dasar                    | `vlan-dasar/`                       | ✅ Selesai |
 | 2   | Inter-VLAN Routing            | `inter-vlan-routing/`               | ⏳ On Progress |
